@@ -32,7 +32,7 @@ This project analyzes user behavior across a signup funnel using SQL and Power B
 
 ## Recommendation
 
-The largest drop-off occurs between the **Signup Started** and **Details Filled** stages, indicating users may be experiencing friction while completing the details form. Reviewing the page for unnecessary mandatory fields, validation errors, or usability issues could improve completion rates and increase overall conversions.
+The biggest drop-off occurs between signup and details filled stage. This indicates users may be encountering friction while completing details form. Simplifying the form, reducing mandatory fields and enabling autofill could improve completions rates and improve overall conversions.
 
 ---
 
